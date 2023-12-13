@@ -23,4 +23,4 @@ password = Deren.25
 ```
 
 ## Assignments
-► Assignment 1: This assignment aims to understand variables in shell programming and put them into practice.
+Assignment 1: This assignment aims to understand variables in shell programming and put them into practice.
