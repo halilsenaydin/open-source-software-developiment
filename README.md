@@ -10,7 +10,7 @@ A script file is run like this:
 
 ```bash
 chmod +x script.sh # add to executable permission
-./script.sh # run script file
+./script.sh # exec script file
 ```
 
 ## Mobile App Usage
@@ -25,4 +25,26 @@ password = Deren.25
 ```
 
 ## Assignments
-Assignment 1: This assignment aims to understand variables in shell programming and put them into practice.
+
+### Assignment 1
+> This assignment aims to understand variables in shell programming and put them into practice.
+
+#### Exec Script File
+
+```bash
+chmod +x assignment-1.sh # add to executable permission
+./assignment-1.sh # exec script file
+```
+
+### Assignment 2
+> This assignment aims to understand and implement access rights in a shell.
+
+#### Exec Script File
+
+```bash
+chmod +x assignment-2.sh # add to executable permission
+
+# ./assignment-2.sh <authority> <new_user> <new_group> <file>
+./assignment-2.sh 777 parallels sudo deneme.txt # exec script file
+```
+
