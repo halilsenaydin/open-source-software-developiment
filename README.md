@@ -47,4 +47,6 @@ chmod +x assignment-2.sh # add to executable permission
 # ./assignment-2.sh <authority> <new_user> <new_group> <file>
 ./assignment-2.sh 777 parallels sudo deneme.txt # exec script file
 ```
+> Running the script file and output
+<img width="1036" alt="Screenshot 2023-12-21 at 10 41 21" src="https://github.com/halilsenaydin/open-source-software-development/assets/70847361/ade27e7f-4e3f-447b-9ff9-8a8b920a0d59">
 
