@@ -24,30 +24,12 @@ userName = dogukaneren
 password = Deren.25
 ```
 
-## Assignments
-
-### Assignment 1
+## Assignment 1
 > This assignment aims to understand variables in shell programming and put them into practice.
 
-#### Exec Script File
+### Exec Script File
 
 ```bash
 chmod +x assignment-1.sh # add to executable permission
 ./assignment-1.sh # exec script file
 ```
-
-### Assignment 2
-> This assignment aims to understand and implement access rights in a shell.
-
-#### Exec Script File
-
-```bash
-chmod +x assignment-2.sh # add to executable permission
-
-# ./assignment-2.sh <authority> <new_user> <new_group> <file>
-./assignment-2.sh 777 parallels sudo deneme.txt # exec script file
-```
-Running the script file and output:
-
-<img width="1036" alt="Screenshot 2023-12-21 at 10 41 21" src="https://github.com/halilsenaydin/open-source-software-development/assets/70847361/ade27e7f-4e3f-447b-9ff9-8a8b920a0d59">
-
